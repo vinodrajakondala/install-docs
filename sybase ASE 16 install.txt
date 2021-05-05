@@ -1,0 +1,1170 @@
+[root@localhost Sybase ASE 16.0]# tar -zxvf ASE_Suite.linuxamd64.tgz
+FaultManager/
+FaultManager/archives/
+FaultManager/archives/lang_mm/
+FaultManager/archives/lang_mm/lang.iam.zip
+FaultManager/archives/lang_mm/archives/
+FaultManager/archives/lang_mm/archives/comp_size.properties
+FaultManager/archives/lang_mm/archives/version.txt
+FaultManager/archives/odbc_mm/
+FaultManager/archives/odbc_mm/odbc.iam.zip
+FaultManager/archives/odbc_mm/archives/
+FaultManager/archives/odbc_mm/archives/comp_size.properties
+FaultManager/archives/odbc_mm/archives/version.txt
+FaultManager/archives/fm_mm/
+FaultManager/archives/fm_mm/fm.iam.zip
+FaultManager/archives/fm_mm/archives/
+FaultManager/archives/fm_mm/archives/comp_size.properties
+FaultManager/archives/fm_mm/archives/version.txt
+FaultManager/archives/version.txt
+FaultManager/sample_response.txt
+FaultManager/setup.bin
+ThirdPartyLegal/
+ThirdPartyLegal/FreeDownloadComponentList.SCC.3.3.pdf
+ThirdPartyLegal/FreeDownloadComponentList.jConnect.16.0.pdf
+ThirdPartyLegal/FreeDownloadComponentList.CSI.2.9_M5_And_Above.pdf
+ThirdPartyLegal/FreeDownloadComponentList.ASE.16.0.pdf
+ThirdPartyLegal/FreeDownloadTermsMasterList.pdf
+ThirdPartyLegal/FreeDownloadComponentList.SQLAnywhereODBCDriverManager.11.0.1.pdf
+ThirdPartyLegal/FreeDownloadComponentList.SDK.16.0.pdf
+archives/
+archives/rep_server/
+archives/rep_server/archives/
+archives/rep_server/archives/comp_size.properties
+archives/rep_server/archives/version.txt
+archives/rep_server/Disk1/
+archives/rep_server/Disk1/InstData/
+archives/rep_server/Disk1/InstData/MediaId.properties
+archives/rep_server/Disk1/InstData/NoVM/
+archives/rep_server/Disk1/InstData/NoVM/setup.bin
+archives/rep_server/Disk1/InstData/Resource1.zip
+archives/conn_add_lm/
+archives/conn_add_lm/archives/
+archives/conn_add_lm/archives/comp_size.properties
+archives/conn_add_lm/archives/version.txt
+archives/conn_add_lm/Disk1/
+archives/conn_add_lm/Disk1/InstData/
+archives/conn_add_lm/Disk1/InstData/MediaId.properties
+archives/conn_add_lm/Disk1/InstData/Resource1.zip
+archives/conn_add_lm/Disk1/InstData/setup.bin
+archives/asemanifest.mf
+archives/lang_mm/
+archives/lang_mm/lang.iam.zip
+archives/lang_mm/archives/
+archives/lang_mm/archives/comp_size.properties
+archives/lang_mm/archives/version.txt
+archives/sapjre71/
+archives/sapjre71/archives/
+archives/sapjre71/archives/comp_size.properties
+archives/sapjre71/archives/version.txt
+archives/sapjre71/Disk1/
+archives/sapjre71/Disk1/InstData/
+archives/sapjre71/Disk1/InstData/MediaId.properties
+archives/sapjre71/Disk1/InstData/Resource1.zip
+archives/sapjre71/Disk1/InstData/setup.bin
+archives/ase_cagent_mm/
+archives/ase_cagent_mm/ase_cagent.iam.zip
+archives/ase_cagent_mm/archives/
+archives/ase_cagent_mm/archives/comp_size.properties
+archives/ase_cagent_mm/archives/version.txt
+archives/xa_mm/
+archives/xa_mm/xa.iam.zip
+archives/xa_mm/archives/
+archives/xa_mm/archives/comp_size.properties
+archives/xa_mm/archives/version.txt
+archives/SYBASE_ASE_XE.lic
+archives/ie_java_mm/
+archives/ie_java_mm/ie_java.iam.zip
+archives/ie_java_mm/archives/
+archives/ie_java_mm/archives/comp_size.properties
+archives/ie_java_mm/archives/version.txt
+archives/conn_python_mm/
+archives/conn_python_mm/archives/
+archives/conn_python_mm/archives/comp_size.properties
+archives/conn_python_mm/archives/version.txt
+archives/conn_python_mm/conn_python.iam.zip
+archives/conn_perl_mm/
+archives/conn_perl_mm/conn_perl.iam.zip
+archives/conn_perl_mm/archives/
+archives/conn_perl_mm/archives/comp_size.properties
+archives/conn_perl_mm/archives/version.txt
+archives/conn_add_lm_mm/
+archives/conn_add_lm_mm/archives/
+archives/conn_add_lm_mm/archives/comp_size.properties
+archives/conn_add_lm_mm/archives/version.txt
+archives/conn_add_lm_mm/conn_add_lm.iam.zip
+archives/esqlc_mm/
+archives/esqlc_mm/archives/
+archives/esqlc_mm/archives/comp_size.properties
+archives/esqlc_mm/archives/version.txt
+archives/esqlc_mm/esqlc.iam.zip
+archives/asecmap_mm/
+archives/asecmap_mm/asecmap.iam.zip
+archives/asecmap_mm/archives/
+archives/asecmap_mm/archives/comp_size.properties
+archives/asecmap_mm/archives/version.txt
+archives/shared_lib_mm/
+archives/shared_lib_mm/shared_lib.iam.zip
+archives/shared_lib_mm/archives/
+archives/shared_lib_mm/archives/comp_size.properties
+archives/shared_lib_mm/archives/version.txt
+archives/rma/
+archives/rma/archives/
+archives/rma/archives/comp_size.properties
+archives/rma/archives/version.txt
+archives/rma/Disk1/
+archives/rma/Disk1/InstData/
+archives/rma/Disk1/InstData/MediaId.properties
+archives/rma/Disk1/InstData/NoVM/
+archives/rma/Disk1/InstData/NoVM/setup.bin
+archives/rma/Disk1/InstData/Resource1.zip
+archives/qptune_mm/
+archives/qptune_mm/archives/
+archives/qptune_mm/archives/comp_size.properties
+archives/qptune_mm/archives/version.txt
+archives/qptune_mm/qptune.iam.zip
+archives/dblib_mm/
+archives/dblib_mm/dblib.iam.zip
+archives/dblib_mm/archives/
+archives/dblib_mm/archives/comp_size.properties
+archives/dblib_mm/archives/version.txt
+archives/conn_php_mm/
+archives/conn_php_mm/conn_php.iam.zip
+archives/conn_php_mm/archives/
+archives/conn_php_mm/archives/comp_size.properties
+archives/conn_php_mm/archives/version.txt
+archives/dbisql_mm/
+archives/dbisql_mm/dbisql.iam.zip
+archives/dbisql_mm/archives/
+archives/dbisql_mm/archives/comp_size.properties
+archives/dbisql_mm/archives/version.txt
+archives/lang/
+archives/lang/archives/
+archives/lang/archives/comp_size.properties
+archives/lang/archives/version.txt
+archives/lang/Disk1/
+archives/lang/Disk1/InstData/
+archives/lang/Disk1/InstData/MediaId.properties
+archives/lang/Disk1/InstData/Resource1.zip
+archives/lang/Disk1/InstData/setup.bin
+archives/open_client_mm/
+archives/open_client_mm/open_client.iam.zip
+archives/open_client_mm/archives/
+archives/open_client_mm/archives/comp_size.properties
+archives/open_client_mm/archives/version.txt
+archives/esqlcobol_mm/
+archives/esqlcobol_mm/esqlcobol.iam.zip
+archives/esqlcobol_mm/archives/
+archives/esqlcobol_mm/archives/comp_size.properties
+archives/esqlcobol_mm/archives/version.txt
+archives/ase_add_lm_mm/
+archives/ase_add_lm_mm/archives/
+archives/ase_add_lm_mm/archives/comp_size.properties
+archives/ase_add_lm_mm/archives/version.txt
+archives/ase_add_lm_mm/ase_add_lm.iam.zip
+archives/rs_asa/
+archives/rs_asa/archives/
+archives/rs_asa/archives/comp_size.properties
+archives/rs_asa/archives/version.txt
+archives/rs_asa/Disk1/
+archives/rs_asa/Disk1/InstData/
+archives/rs_asa/Disk1/InstData/MediaId.properties
+archives/rs_asa/Disk1/InstData/NoVM/
+archives/rs_asa/Disk1/InstData/NoVM/setup.bin
+archives/rs_asa/Disk1/InstData/Resource1.zip
+
+archives/conn_lm_mm/
+archives/conn_lm_mm/archives/
+archives/conn_lm_mm/archives/comp_size.properties
+archives/conn_lm_mm/archives/version.txt
+archives/conn_lm_mm/conn_lm.iam.zip
+archives/open_client/
+archives/open_client/archives/
+archives/open_client/archives/comp_size.properties
+archives/open_client/archives/version.txt
+archives/open_client/Disk1/
+archives/open_client/Disk1/InstData/
+archives/open_client/Disk1/InstData/MediaId.properties
+archives/open_client/Disk1/InstData/Resource1.zip
+archives/open_client/Disk1/InstData/setup.bin
+archives/jconnect16_mm/
+archives/jconnect16_mm/archives/
+archives/jconnect16_mm/archives/comp_size.properties
+archives/jconnect16_mm/archives/version.txt
+archives/jconnect16_mm/jconnect.iam.zip
+archives/conn_lm/
+archives/conn_lm/archives/
+archives/conn_lm/archives/comp_size.properties
+archives/conn_lm/archives/version.txt
+archives/conn_lm/Disk1/
+archives/conn_lm/Disk1/InstData/
+archives/conn_lm/Disk1/InstData/MediaId.properties
+archives/conn_lm/Disk1/InstData/Resource1.zip
+archives/conn_lm/Disk1/InstData/setup.bin
+archives/sybpsu
+archives/odbc_mm/
+archives/odbc_mm/odbc.iam.zip
+archives/odbc_mm/archives/
+archives/odbc_mm/archives/comp_size.properties
+archives/odbc_mm/archives/version.txt
+archives/rs_add_lm/
+archives/rs_add_lm/archives/
+archives/rs_add_lm/archives/comp_size.properties
+archives/rs_add_lm/archives/version.txt
+archives/rs_add_lm/Disk1/
+archives/rs_add_lm/Disk1/InstData/
+archives/rs_add_lm/Disk1/InstData/MediaId.properties
+archives/rs_add_lm/Disk1/InstData/NoVM/
+archives/rs_add_lm/Disk1/InstData/NoVM/setup.bin
+archives/rs_add_lm/Disk1/InstData/Resource1.zip
+archives/cfw_mm/
+archives/cfw_mm/archives/
+archives/cfw_mm/archives/comp_size.properties
+archives/cfw_mm/archives/version.txt
+archives/cfw_mm/cfw.iam.zip
+archives/sapjre81_mm/
+archives/sapjre81_mm/sapjre81.iam.zip
+archives/sapjre81_mm/archives/
+archives/sapjre81_mm/archives/comp_size.properties
+archives/sapjre81_mm/archives/version.txt
+archives/dbcapi_mm/
+archives/dbcapi_mm/dbcapi.iam.zip
+archives/dbcapi_mm/archives/
+archives/dbcapi_mm/archives/comp_size.properties
+archives/dbcapi_mm/archives/version.txt
+archives/sysam_server_mm/
+archives/sysam_server_mm/sysam_server.iam.zip
+archives/sysam_server_mm/archives/
+archives/sysam_server_mm/archives/comp_size.properties
+archives/sysam_server_mm/archives/version.txt
+archives/locales/
+archives/locales/unicode/
+archives/locales/unicode/sylapi/
+archives/locales/unicode/sylapi/en_us/
+archives/locales/unicode/sylapi/en_us/sylapi.lcu
+archives/locales/unicode/sylapi/fr_fr/
+archives/locales/unicode/sylapi/fr_fr/sylapi.lcu
+archives/locales/unicode/sylapi/th_TH/
+archives/locales/unicode/sylapi/th_TH/sylapi.lcu
+archives/locales/unicode/sylapi/pt_pt/
+archives/locales/unicode/sylapi/pt_pt/sylapi.lcu
+archives/locales/unicode/sylapi/pt_PT/
+archives/locales/unicode/sylapi/pt_PT/sylapi.lcu
+archives/locales/unicode/sylapi/de_DE/
+archives/locales/unicode/sylapi/de_DE/sylapi.lcu
+archives/locales/unicode/sylapi/en_US/
+archives/locales/unicode/sylapi/en_US/sylapi.lcu
+archives/locales/unicode/sylapi/ko_kr/
+archives/locales/unicode/sylapi/ko_kr/sylapi.lcu
+archives/locales/unicode/sylapi/fr_FR/
+archives/locales/unicode/sylapi/fr_FR/sylapi.lcu
+archives/locales/unicode/sylapi/pl_PL/
+archives/locales/unicode/sylapi/pl_PL/sylapi.lcu
+archives/locales/unicode/sylapi/ko_KR/
+archives/locales/unicode/sylapi/ko_KR/sylapi.lcu
+archives/locales/unicode/sylapi/zh_CN/
+archives/locales/unicode/sylapi/zh_CN/sylapi.lcu
+archives/locales/unicode/sylapi/de_de/
+archives/locales/unicode/sylapi/de_de/sylapi.lcu
+archives/locales/unicode/sylapi/th_th/
+archives/locales/unicode/sylapi/th_th/sylapi.lcu
+archives/locales/unicode/sylapi/zh_cn/
+archives/locales/unicode/sylapi/zh_cn/sylapi.lcu
+archives/locales/unicode/sylapi/pl_pl/
+archives/locales/unicode/sylapi/pl_pl/sylapi.lcu
+archives/locales/unicode/sylapi/es_es/
+archives/locales/unicode/sylapi/es_es/sylapi.lcu
+archives/locales/unicode/sylapi/ja_JP/
+archives/locales/unicode/sylapi/ja_JP/sylapi.lcu
+archives/locales/unicode/sylapi/ja_jp/
+archives/locales/unicode/sylapi/ja_jp/sylapi.lcu
+archives/locales/unicode/sylapi/es_ES/
+archives/locales/unicode/sylapi/es_ES/sylapi.lcu
+archives/SCC-3_2/
+archives/SCC-3_2/plugins/
+archives/SCC-3_2/plugins/DR/
+archives/SCC-3_2/plugins/DR/agent-plugin.xml
+archives/SCC-3_2/services/
+archives/SCC-3_2/services/RMI/
+archives/SCC-3_2/services/RMI/service-config.xml
+archives/SCC-3_2/bin/
+archives/SCC-3_2/bin/scc.sh
+archives/sysam_util_mm/
+archives/sysam_util_mm/sysam_util.iam.zip
+archives/sysam_util_mm/archives/
+archives/sysam_util_mm/archives/comp_size.properties
+archives/sysam_util_mm/archives/version.txt
+archives/saphostagent.sar
+archives/sylapi/
+archives/sylapi/libsylapij.so
+archives/ase_mm/
+archives/ase_mm/ase.iam.zip
+
+archives/ase_mm/archives/
+archives/ase_mm/archives/comp_size.properties
+archives/ase_mm/archives/version.txt
+archives/sapjre71_mm/
+archives/sapjre71_mm/archives/
+archives/sapjre71_mm/archives/comp_size.properties
+archives/sapjre71_mm/archives/version.txt
+archives/sapjre71_mm/sapjre71.iam.zip
+archives/sysam_util/
+archives/sysam_util/archives/
+archives/sysam_util/archives/comp_size.properties
+archives/sysam_util/archives/version.txt
+archives/sysam_util/Disk1/
+archives/sysam_util/Disk1/InstData/
+archives/sysam_util/Disk1/InstData/MediaId.properties
+archives/sysam_util/Disk1/InstData/Resource1.zip
+archives/sysam_util/Disk1/InstData/setup.bin
+archives/odata_mm/
+archives/odata_mm/odata.iam.zip
+archives/odata_mm/archives/
+archives/odata_mm/archives/comp_size.properties
+archives/odata_mm/archives/version.txt
+archives/SySAMLicenseInfo.xml
+archives/version.txt
+preupgrade
+sample_response.txt
+sample_response_companion.txt
+sample_response_primary.txt
+setup.bin
+sysam_setup/
+sysam_setup/archives/
+sysam_setup/archives/sysam_server_mm/
+sysam_setup/archives/sysam_server_mm/sysam_server.iam.zip
+
+sysam_setup/archives/sysam_server_mm/archives/
+sysam_setup/archives/sysam_server_mm/archives/comp_size.properties
+sysam_setup/archives/sysam_util_mm/
+sysam_setup/archives/sysam_util_mm/sysam_util.iam.zip
+sysam_setup/archives/sysam_util_mm/archives/
+sysam_setup/archives/sysam_util_mm/archives/comp_size.properties
+sysam_setup/sample_response.txt
+sysam_setup/setup.bin
+sysam_utilities/
+sysam_utilities/locales/
+sysam_utilities/locales/unicode/
+sysam_utilities/locales/unicode/sylapi/
+sysam_utilities/locales/unicode/sylapi/en_us/
+sysam_utilities/locales/unicode/sylapi/en_us/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/fr_fr/
+sysam_utilities/locales/unicode/sylapi/fr_fr/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/th_TH/
+sysam_utilities/locales/unicode/sylapi/th_TH/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/pt_pt/
+sysam_utilities/locales/unicode/sylapi/pt_pt/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/pt_PT/
+sysam_utilities/locales/unicode/sylapi/pt_PT/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/de_DE/
+sysam_utilities/locales/unicode/sylapi/de_DE/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/en_US/
+sysam_utilities/locales/unicode/sylapi/en_US/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/ko_kr/
+sysam_utilities/locales/unicode/sylapi/ko_kr/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/fr_FR/
+sysam_utilities/locales/unicode/sylapi/fr_FR/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/pl_PL/
+sysam_utilities/locales/unicode/sylapi/pl_PL/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/ko_KR/
+sysam_utilities/locales/unicode/sylapi/ko_KR/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/zh_CN/
+sysam_utilities/locales/unicode/sylapi/zh_CN/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/de_de/
+sysam_utilities/locales/unicode/sylapi/de_de/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/th_th/
+sysam_utilities/locales/unicode/sylapi/th_th/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/zh_cn/
+sysam_utilities/locales/unicode/sylapi/zh_cn/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/pl_pl/
+sysam_utilities/locales/unicode/sylapi/pl_pl/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/es_es/
+sysam_utilities/locales/unicode/sylapi/es_es/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/ja_JP/
+sysam_utilities/locales/unicode/sylapi/ja_JP/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/ja_jp/
+sysam_utilities/locales/unicode/sylapi/ja_jp/sylapi.lcu
+sysam_utilities/locales/unicode/sylapi/es_ES/
+sysam_utilities/locales/unicode/sylapi/es_ES/sylapi.lcu
+sysam_utilities/bin/
+sysam_utilities/bin/sysamcap
+sysam_utilities/bin/cpuinfo
+sysam_utilities/bin/lmutil
+[root@localhost Sybase ASE 16.0]#
+[root@localhost Sybase ASE 16.0]#
+[root@localhost Sybase ASE 16.0]#
+[root@localhost Sybase ASE 16.0]# ll
+total 2308264
+drwxr-xr-x. 43 40246  200       4096 Oct  7  2017 archives
+-rw-r--r--.  1 root  root 2249799145 May 18  2018 ASE_Suite.linuxamd64.tgz
+drwxr-xr-x.  3 40246  200         66 Oct  7  2017 FaultManager
+-rwxr-xr-x.  1 40246  200    1289152 Oct  6  2017 preupgrade
+-rwxr-xr-x.  1 40246  200      21996 Sep  5  2017 sample_response_companion.txt
+-rwxr-xr-x.  1 40246  200      22021 Sep  5  2017 sample_response_primary.txt
+-rwxr-xr-x.  1 40246  200      16483 Sep  5  2017 sample_response.txt
+-rwxr-xr-x.  1 40246  200  112492132 Oct  7  2017 setup.bin
+drwxr-xr-x.  3 40246  200         66 Oct  7  2017 sysam_setup
+drwxr-xr-x.  4 40246  200         32 Oct  7  2017 sysam_utilities
+drwxr-xr-x.  2 40246  200       4096 Oct  7  2017 ThirdPartyLegal
+[root@localhost Sybase ASE 16.0]# ls -ltrh
+total 2.3G
+-rwxr-xr-x.  1 40246  200  17K Sep  5  2017 sample_response.txt
+-rwxr-xr-x.  1 40246  200  22K Sep  5  2017 sample_response_primary.txt
+-rwxr-xr-x.  1 40246  200  22K Sep  5  2017 sample_response_companion.txt
+-rwxr-xr-x.  1 40246  200 1.3M Oct  6  2017 preupgrade
+drwxr-xr-x.  3 40246  200   66 Oct  7  2017 FaultManager
+-rwxr-xr-x.  1 40246  200 108M Oct  7  2017 setup.bin
+drwxr-xr-x.  2 40246  200 4.0K Oct  7  2017 ThirdPartyLegal
+drwxr-xr-x.  4 40246  200   32 Oct  7  2017 sysam_utilities
+drwxr-xr-x.  3 40246  200   66 Oct  7  2017 sysam_setup
+drwxr-xr-x. 43 40246  200 4.0K Oct  7  2017 archives
+-rw-r--r--.  1 root  root 2.1G May 18  2018 ASE_Suite.linuxamd64.tgz
+[root@localhost Sybase ASE 16.0]# ./setup.bin
+Preparing to install
+Extracting the JRE from the installer archive...
+Unpacking the JRE...
+Extracting the installation resources from the installer archive...
+Configuring the installer for this system's environment...
+./setup.bin: line 2958: unzip: command not found
+Invalid unzip command found
+
+Launching installer...
+
+
+Graphical installers are not supported by the VM. The console mode will be used instead...
+
+===============================================================================
+SAP Adaptive Server Enterprise                   (created with InstallAnywhere)
+-------------------------------------------------------------------------------
+
+Preparing CONSOLE Mode Installation...
+
+
+
+
+===============================================================================
+Introduction
+------------
+
+InstallAnywhere will guide you through the installation of SAP Adaptive Server
+Enterprise 16.0 SP03 PL02.
+
+It is strongly recommended that you quit all programs before continuing with
+this installation.
+
+Respond to each prompt to proceed to the next step in the installation.  If
+you want to change something on a previous step, type 'back'.
+
+You may cancel this installation at any time by typing 'quit'.
+
+PRESS <ENTER> TO CONTINUE:
+
+
+
+===============================================================================
+Choose Install Folder
+---------------------
+
+Where would you like to install?
+
+  Default Install Folder: /opt/sap
+
+ENTER AN ABSOLUTE PATH, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+      :
+The directory /opt/sap does not exist. Do you want to create it?
+    (Y/N): Y
+
+
+
+===============================================================================
+Choose Install Set
+------------------
+
+Please choose the Install Set to be installed by this installer.
+
+  ->1- Typical
+    2- Typical SAP ASE, database always-on option
+    3- Full
+
+    4- Customize...
+
+ENTER THE NUMBER FOR THE INSTALL SET, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+   :
+
+
+
+===============================================================================
+Software License Type Selection
+-------------------------------
+
+What would you like to do?
+
+  ->1- Install licensed copy of SAP Adaptive Server Enterprise
+
+    2- Install Express Edition of SAP Adaptive Server Enterprise
+
+    3- Evaluate SAP Adaptive Server Enterprise
+
+
+Enter one of the options above: 2
+
+
+
+===============================================================================
+End-user License Agreement
+--------------------------
+
+1)  All regions
+
+Please enter the number of the location you are installing. (1-1) (Default:
+   1):
+
+
+LICENSE AGREEMENT
+
+SAP(r) ADAPTIVE SERVER(r) ENTERPRISE
+EXPRESS EDITION
+VERSION 16.0.x
+
+
+NOTICE TO USER:   Scroll down and read this License
+Agreement (this "Agreement") carefully.  This is a legally
+binding Agreement between you (or your employer or company,
+as applicable) ("Licensee" or "You") and the SAP entity
+authorized to distribute the Program (as defined below) in
+the country in which you are located ("SAP").
+
+By clicking "Accept" or "Agree," You agree to all of the
+terms and conditions stated in this Agreement.   If You do
+not agree to these terms, do not click "Accept" or "Agree."
+If You are entering into this Agreement on behalf of your
+employer or company, You represent and warrant that You have
+
+Press ENTER to read the text [Type 'back' and press ENTER to skip the text]
+   : back
+
+I agree to the terms of the SAP license for the install location specified.
+   (Y/N): Y
+
+
+
+===============================================================================
+Pre-Installation Summary
+------------------------
+
+Please Review the Following Before Continuing:
+
+Product Name:
+    SAP Adaptive Server Enterprise
+
+Install Folder:
+    /opt/sap
+
+Product Features:
+    SAP Adaptive Server Enterprise,
+    Open Client,
+    DB-Library,
+    jConnect 16.0 for JDBC,
+    Interactive SQL,
+    QPTune,
+    SySAM License Utilities,
+    Remote Command and Control Agent for SAP ASE,
+    SAP ASE ODBC Driver,
+    SAP ASE Extension Module for Python,
+    SAP ASE Database Driver for PERL,
+    SAP ASE Extension Module for PHP,
+    Cockpit,
+    SAP ASE Cockpit
+
+Disk Space Information (for Installation Target):
+    Required:  1,840,256,197 Bytes
+    Available: 4,437,106,688 Bytes
+
+PRESS <ENTER> TO CONTINUE:
+
+
+
+===============================================================================
+Ready To Install
+----------------
+
+InstallAnywhere is now ready to install SAP Adaptive Server Enterprise onto
+your system at the following location:
+
+   /opt/sap
+
+PRESS <ENTER> TO INSTALL:
+
+
+
+===============================================================================
+Installing...
+-------------
+
+ [==================|==================|==================|==================]
+ [------------------|------------------|------------------|------------------]
+
+#----22min-----#
+
+===============================================================================
+Configure New Servers
+---------------------
+
+The SAP Adaptive Server Enterprise includes products that require
+configuration.  If you choose to configure the products on this screen, you
+will be given the option to specify custom values for each product.  If you
+choose not to configure the products now, you can configure them later.
+
+
+Please deselect any products that you do not want to configure now :
+
+
+        [ ]  1  -  Configure new SAP ASE
+        [ ]  2  -  Configure new Backup Server
+        [ ]  3  -  Configure new XP Server
+        [ ]  4  -  Configure new Job Scheduler
+        [ ]  5  -  Enable Self Management
+        [ ]  6  -  Configure Historical Monitoring Data Repository
+        [ ]  7  -  Configure Cockpit
+** NOTE: The Historical Monitoring Data Repository should only be configured
+if you are using SAP ASE in SAP Business Applications. Use in a standalone SAP
+ASE is not supported.
+To select an item enter its number, or 0 when you are finished: (Default: 0)
+   : 1
+        [X]  1  -  Configure new SAP ASE
+        [ ]  2  -  Configure new Backup Server
+        [ ]  3  -  Configure new XP Server
+        [ ]  4  -  Configure new Job Scheduler
+        [ ]  5  -  Enable Self Management
+        [ ]  6  -  Configure Historical Monitoring Data Repository
+        [ ]  7  -  Configure Cockpit
+** NOTE: The Historical Monitoring Data Repository should only be configured
+if you are using SAP ASE in SAP Business Applications. Use in a standalone SAP
+ASE is not supported.
+To select an item enter its number, or 0 when you are finished: (Default: 0)
+   : 2
+        [X]  1  -  Configure new SAP ASE
+        [X]  2  -  Configure new Backup Server
+        [ ]  3  -  Configure new XP Server
+        [ ]  4  -  Configure new Job Scheduler
+        [ ]  5  -  Enable Self Management
+        [ ]  6  -  Configure Historical Monitoring Data Repository
+        [ ]  7  -  Configure Cockpit
+** NOTE: The Historical Monitoring Data Repository should only be configured
+if you are using SAP ASE in SAP Business Applications. Use in a standalone SAP
+ASE is not supported.
+To select an item enter its number, or 0 when you are finished: (Default: 0)
+   : 0
+
+
+
+===============================================================================
+Configure Servers with Different User Account
+---------------------------------------------
+
+
+Do you want to configure the server(s) under different user account?
+
+    1- Yes
+  ->2- No
+
+Enter one of the options above:
+
+
+
+===============================================================================
+User Configuration Data Directory
+---------------------------------
+
+Enter the directory where you want to store user data files such as interfaces
+file, RUN_<server> file, error log, etc.. The files for the server(s) you
+about to create will be placed in this directory.
+
+Data Directory (Default: /opt/sap):
+
+
+
+
+===============================================================================
+Configure New SAP ASE
+---------------------
+
+SAP ASE Name (Default: LOCALHOST): SYB_DAT
+System Administrator's Password:
+Confirm System Administrator's Password:
+Host Name (Default: localhost):
+Port Number (Default: 5000):
+Error Log (Default: /opt/sap/ASE-16_0/install/SYB_DAT.log):
+Application Type
+  ->1- Mixed (OLTP/DSS)
+    2- Online Transaction Proccessing (OLTP)
+    3- Decision Support Systems (DSS)
+
+Select an application type: 1
+Page Size
+    1- 2k
+  ->2- 4k
+    3- 8k
+    4- 16k
+
+Select a page size: 2
+Warning: You have selected 4k as the logical page size for the
+SAP ASE. If you plan to load dump from another database,
+make sure this logical page size matches the size of the source
+database. The default logical page size in previous SAP ASE
+versions was 2KB.
+PRESS <ENTER> TO CONTINUE:
+  ->1- us_english
+
+Default Language:
+    1- cp437 : Code Page 437, (United States) character set.
+    2- cp850 : Code Page 850 (Multilingual) character set.
+    3- iso15 : ISO_8859-15:1998, Latin9, Western Europe
+  ->4- iso_1 : ISO 8859-1 (Latin-1) - Western European 8-bit character set.
+    5- mac : Macintosh default character set for Western European locales.
+    6- roman8 : Hewlett-Packard proprietary character set for European locales.
+    7- roman9 : Hewlett-Packard proprietary character set for European locales.
+    8- utf8 : Unicode 3.1 UTF-8 Character Set
+
+Default Character Set:
+  ->1- bin_iso_1 : Binary ordering, for the ISO 8859/1 or Latin-1 character set
+(iso_1).
+    2- dictionary_iso_1 : General purpose dictionary ordering.
+    3- espdict_iso_1 : Spanish dictionary ordering.
+    4- espnoaccents_iso_1 : Spanish case and accent insensitive dictionary order.
+    5- espnocase_iso_1 : Spanish case insensitive dictionary order.
+    6- noaccents_iso_1 : Dictionary order, case insensitive, accent insensitive.
+    7- nocase_iso_1 : Dictionary order, case insensitive.
+    8- nocasepref_iso_1 : Dictionary order, case insensitive with preference.
+
+Default Sort Order:
+Enable SAP ASE for SAP ASE Cockpit monitoring
+    1- No
+  ->2- Yes
+
+Do you want to enable SAP ASE for SAP ASE Cockpit monitoring?: 1
+Optimize SAP ASE Configuration
+  ->1- No
+    2- Yes
+
+Do you want to optimize SAP ASE configuration?: 1
+Create sample databases
+  ->1- No
+    2- Yes
+
+Do you want to create sample databases?: 2
+Master Device (Default: /opt/sap/data/master.dat):
+Master Device Size (MB) (Default: 65):
+Master Database Size (MB) (Default: 26):
+System Procedure Device (Default: /opt/sap/data/sysprocs.dat):
+System Procedure Device Size (MB) (Default: 196):
+System Procedure Database Size (MB) (Default: 196):
+System Device (Default: /opt/sap/data/sybsysdb.dat):
+System Device Size (MB) (Default: 6):
+System Database Size (MB) (Default: 6):
+Tempdb Device (Default: /opt/sap/data/tempdbdev.dat):
+Tempdb Device Size (MB) (Default: 100):
+Tempdb Database Size (MB) (Default: 100):
+Enable PCI
+  ->1- No
+    2- Yes
+
+Do you want to configure PCI/JAVA?:
+
+
+
+===============================================================================
+Configure New Backup Server
+---------------------------
+
+Backup Server Name (Default: SYB_DAT_BS):
+Port Number (Default: 5001):
+Error Log (Default: /opt/sap/ASE-16_0/install/SYB_DAT_BS.log):
+Allow Hosts (Default: ): localhost
+
+
+
+===============================================================================
+New Server Configuration Summary
+--------------------------------
+
+SAP ASE
+SAP ASE Name                                  SYB_DAT
+System Administrator's Password               ******
+Enable SAP ASE for SAP ASE Cockpit monitoring false
+Technical user                                tech_user
+Technical user password                       ********
+Host Name                                     localhost
+Port Number                                   5000
+Application Type                              Mixed (OLTP/DSS)
+Create sample databases                       true
+Page Size                                     4k
+Error Log
+/opt/sap/ASE-16_0/install/SYB_DAT
+Default Language                              <use default>
+Default Character Set                         <use default>
+Default Sort Order                            <use default>
+Master Device                                 /opt/sap/data/master.dat
+Master Device Size (MB)                       65
+Master Database Size (MB)                     26
+System Procedure Device                       /opt/sap/data/sysprocs.dat
+System Procedure Device Size (MB)             196
+System Procedure Database Size (MB)           196
+System Device                                 /opt/sap/data/sybsysdb.dat
+System Device Size (MB)                       6
+System Database Size (MB)                     6
+Tempdb Device                                 /opt/sap/data/tempdbdev.dat
+Tempdb Device Size (MB)                       100
+Tempdb Database Size (MB)                     100
+Enable PCI                                    false
+Optimize SAP ASE Configuration                false
+Backup Server
+Backup Server Name SYB_DAT_BS
+Port Number        5001
+Error Log          /opt/sap/ASE-16_0/install/SYB_DAT_BS.log
+Do you want to continue? (Default: yes):
+
+
+
+===============================================================================
+Configure New SAP ASE
+---------------------
+
+Warning: You have selected '4k' as the logical page size for the SAP Adaptive
+Server Enterprise. If you plan to load dump from another database, make sure
+this logical page size matches the size of the source database. The default
+logical page size in previous SAP Adaptive Server Enterprise versions was 2KB.
+
+Building SAP Adaptive Server Enterprise 'SYB_DAT':
+Writing entry into directory services...
+Directory services entry complete.
+Building master device...                     -------5min------------
+Master device complete.
+Writing RUN_SYB_DAT file...
+RUN_SYB_DAT file complete.
+Starting server...
+Server started.
+Set SA password...
+SA password is set.
+Building sysprocs device and sybsystemprocs database...
+sysprocs device and sybsystemprocs database created.
+Running installmaster script to install system stored procedures...
+installmaster: 10% complete.
+installmaster: 20% complete.
+installmaster: 30% complete.
+installmaster: 40% complete.
+installmaster: 50% complete.
+installmaster: 60% complete.
+installmaster: 70% complete.
+installmaster: 80% complete.
+installmaster: 90% complete.
+installmaster: 100% complete.
+installmaster script complete.
+Creating two-phase commit database...
+Two phase commit database complete.
+Extending tempdb database ...
+Extending tempdb database complete.
+Installing common character sets (Code Page 437, Code Page 850, ISO Latin-1,
+Macintosh and HP Roman-8)...
+Character sets installed.
+Setting server name in SAP Adaptive Server Enterprise...
+Server name added.
+Setting optimization goal...
+Setting optimization goal complete.
+Server 'SYB_DAT' was successfully created.
+
+
+-------------------------------------------------------total 23min-----------------------------------------------
+===============================================================================
+Create sample databases
+-----------------------
+
+Creating the "pubs2" database
+CREATE DATABASE: allocating 1792 logical pages (7.0 megabytes) on disk
+'master'
+(1792 logical pages requested).
+Database 'pubs2' is now online.
+Database option 'trunc log on chkpt' turned ON for database 'pubs2'.
+Running CHECKPOINT on database 'pubs2' for option 'trunc log on chkpt' to take
+effect.
+(return status = 0)
+Type added.
+(return status = 0)
+Type added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New primary key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+New foreign key added.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+(return status = 0)
+
+
+
+===============================================================================
+Create sample databases
+-----------------------
+
+(1 row affected)
+Database option 'select into/bulkcopy/pllsort' turned ON for database 'pubs2'.
+Running CHECKPOINT on database 'pubs2' for option 'select
+into/bulkcopy/pllsort'
+to take effect.
+(return status = 0)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x00000000000024c1
+
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x00000000000024e9
+
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x000000000000250d
+
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x000000000000253a
+
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x0000000000002558
+
+(1 row affected)
+(1 row affected)
+
+Return parameters:
+
+txts
+------------------
+0x0000000000002592
+
+Database option 'select into/bulkcopy/pllsort' turned OFF for database
+'pubs2'.
+Running CHECKPOINT on database 'pubs2' for option 'select
+into/bulkcopy/pllsort'
+to take effect.
+(return status = 0)
+
+The script installpix is complete.
+No further action on your part is required.
+
+
+
+===============================================================================
+Create sample databases
+-----------------------
+
+Creating the "pubs3" database
+CREATE DATABASE: allocating 1536 logical pages (6.0 megabytes) on disk
+'master'
+(1536 logical pages requested).
+Database 'pubs3' is now online.
+Database option 'trunc log on chkpt' turned ON for database 'pubs3'.
+Running CHECKPOINT on database 'pubs3' for option 'trunc log on chkpt' to take
+effect.
+(return status = 0)
+Type added.
+(return status = 0)
+Type added.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Default bound to column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+Rule bound to table column.
+(return status = 0)
+(return status = 0)
+
+
+
+===============================================================================
+Configure New Backup Server
+---------------------------
+
+Building Backup Server 'SYB_DAT_BS':
+Writing entry into directory services...
+Directory services entry complete.
+Set allow hosts for Backup Server...
+Allow hosts are set.
+Writing RUN_SYB_DAT_BS file...
+RUN_SYB_DAT_BS file complete.
+Starting server...
+Server started.
+Server 'SYB_DAT_BS' was successfully created.
+
+
+
+===============================================================================
+Installation Completed
+----------------------
+
+
+The installation was successful.
+
+
+Please check regularly for updates at http://service.sap.com.
+
+
+
+PRESS <ENTER> TO EXIT THE INSTALLER:
+
+
+
+--------------------------------------------------------------------36 min ------------
+
+so toal installation time 37+23=60 min overall 1hrs for enteir setup
+
+==============================================================================
+
+
+
+[root@localhost Sybase ASE 16.0]#
+[root@localhost Sybase ASE 16.0]# . /opt/sap/SYBASE.sh
+[root@localhost Sybase ASE 16.0]# echo $SYBASE
+/opt/sap
+[root@localhost Sybase ASE 16.0]# cd /opt/sap/ASE-16_0/install/
+[root@localhost install]# ./RUN_SYB_DAT &
+[1] 7746
+[root@localhost install]# 00:0000:00000:00000:2020/06/30 02:25:47.80 kernel  SySAM: Using licenses from: /opt/sap/SYSAM-2_0/licenses/SYBASE_ASE_XE.lic
+00:0000:00000:00000:2020/06/30 02:25:47.81 kernel  SySAM: Checked out license for 1 ASE_CORE (2020.1231/permanent/02EB A703 F9CB 1D54).
+00:0000:00000:00000:2020/06/30 02:25:47.81 kernel  This product is licensed to: ASE Express Edition Free Deployment License
+00:0000:00000:00000:2020/06/30 02:25:47.81 kernel  Checked out license ASE_CORE
+00:0000:00000:00000:2020/06/30 02:25:47.81 kernel  Adaptive Server Enterprise Express Edition. (Limits: 4 Engines, 50G Disk space).
+00:0000:00000:00000:2020/06/30 02:25:47.82 kernel  basis_dlock: file '/opt/sap/data/master.dat' already in use by an ASE
+00:0000:00000:00000:2020/06/30 02:25:47.82 kernel  kdconfig: unable to read primary master device
+00:0000:00000:00000:2020/06/30 02:25:47.82 server  kiconfig: read of config block failed
+
+[1]+  Done                    ./RUN_SYB_DAT
+[root@localhost install]# ./RUN_SYB_DAT_BS &
+[1] 7832
+[root@localhost install]# ASE backupserver/16.0 SP03 PL02/EBF 27415/P/x86_64/SLES 11.1/ase160sp03pl02x/5673/64-bit/OPT/Fri Oct  6 02:03:28 2017
+Confidential property of SAP AG or an SAP affiliate company.
+Copyright 2017
+SAP AG or an SAP affiliate company.  All rights reserved.
+Unpublished rights reserved under U.S. copyright laws.
+
+This software contains confidential and trade secret information of SAP AG or
+an SAP affiliate company.  Use,  duplication or disclosure of the software and
+documentation by the  U.S.  Government is subject to restrictions set forth
+in a license agreement between the Government and SAP AG or an SAP affiliate
+company,  or other written agreement specifying the Government's rights to
+use the software and any applicable FAR provisions, for example, FAR 52.227-19.
+SAP AG or an SAP affiliate company
+
+
+[1]+  Done                    ./RUN_SYB_DAT_BS
+[root@localhost install]#
+[root@localhost install]# showserver
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+4 S root      7601  7600 27  80   0 - 165858 futex_ 02:20 ?       00:01:40 /opt/sap/ASE-16_0/bin/dataserver -sSYB_DAT -d/opt/sap/data/master.dat -e/opt/sap/ASE-16_0/install/SYB_DAT.log -c/opt/sap/ASE-16_0/SYB_DAT.cfg -M/opt/sap/ASE-16_0 -N/opt/sap/ASE-16_0/sysam/SYB_DAT.properties -i/opt/sap
+0 S root      7731  7730  0  80   0 -  8335 poll_s 02:21 ?        00:00:00 /opt/sap/ASE-16_0/bin/backupserver -e/opt/sap/ASE-16_0/install/SYB_DAT_BS.log -N25 -C20 -I/opt/sap/interfaces -M/opt/sap/ASE-16_0/bin/sybmultbuf -SSYB_DAT_BS -h/opt/sap/ASE-16_0/install/SYB_DAT_BS.hosts.allow
+
+[root@localhost install]# isql -Usa -P'Linux@123' -SSYB_DAT -w1080 -Jcp850
+1> sp_who
+2> go
+ fid spid status   loginame origname hostname              blk_spid dbname tempdbname cmd               block_xloid threadpool
+ --- ---- -------- -------- -------- --------------------- -------- ------ ---------- ----------------- ----------- ----------------
+   0    1 sleeping NULL     NULL     NULL                         0 master master     MEMORY TUNE                 0 syb_default_pool
+   0    3 sleeping NULL     NULL     NULL                         0 master tempdb     DEADLOCK TUNE               0 syb_default_pool
+   0    4 sleeping NULL     NULL     NULL                         0 master tempdb     SHUTDOWN HANDLER            0 syb_default_pool
+   0    5 sleeping NULL     NULL     NULL                         0 master tempdb     KPP HANDLER                 0 syb_default_pool
+   0    6 sleeping NULL     NULL     NULL                         0 master tempdb     ASTC HANDLER                0 syb_default_pool
+   0    7 sleeping NULL     NULL     NULL                         0 master tempdb     CHECKPOINT SLEEP            0 syb_default_pool
+   0    8 sleeping NULL     NULL     NULL                         0 master tempdb     HK WASH                     0 syb_default_pool
+   0    9 sleeping NULL     NULL     NULL                         0 master tempdb     HK GC                       0 syb_default_pool
+   0   10 sleeping NULL     NULL     NULL                         0 master tempdb     HK CHORES                   0 syb_default_pool
+   0   11 sleeping NULL     NULL     NULL                         0 master tempdb     PORT MANAGER                0 syb_default_pool
+   0   12 sleeping NULL     NULL     NULL                         0 master tempdb     NETWORK HANDLER             0 syb_default_pool
+   0   13 sleeping NULL     NULL     NULL                         0 master tempdb     LICENSE HEARTBEAT           0 syb_default_pool
+   0   22 running  sa       sa       localhost.localdomain        0 master tempdb     INSERT                      0 syb_default_pool
+
+(13 rows affected)
+(return status
